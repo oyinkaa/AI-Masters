@@ -14,3 +14,4 @@ division = number1 / number2
 print(f"\nResults:")
 print(f"Multiplication: {number1} * {number2} = {multiplication}")
 print(f"Division: {number1} / {number2} = {division}")
+ghfhhf
